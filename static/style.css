@@ -1,1 +1,10 @@
-/* Put your CSS Styling here! */
+/* Put your CSS Styling here! 
+body{
+	background-color: green;
+}
+img{
+	position: relative;
+	width: 480px;
+	height: 360px;
+	margin: 0 auto;
+}
